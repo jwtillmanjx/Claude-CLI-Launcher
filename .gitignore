@@ -1,0 +1,12 @@
+# Python byte-compiled cache
+__pycache__/
+*.py[cod]
+
+# Compiled de-elevate helper (built at runtime from de-elevate.cs)
+de-elevate.exe
+
+# User-specific runtime data (auto-created on first run, different per machine)
+project-list-directories.csv
+project-scan-directories.txt
+project-excluded-directories.txt
+launcher.ini
